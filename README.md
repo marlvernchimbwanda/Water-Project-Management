@@ -8,3 +8,4 @@ It Measure from 23cm(230 mm) to 600cm (6000mm) detection range.
 2.5 meter (8′) transducer cable.
 3.3 & 5V operation and logic compatible.
 
+k
